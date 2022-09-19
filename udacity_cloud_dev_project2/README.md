@@ -48,12 +48,14 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 # image-filter
 
-### AWS Dashboard Screenshot
 
-![dashboard](https://github.com/kennydukor/image-filter/blob/main/Screen%20Shot%202022-09-14%20at%2018.30.21.png)
+# Submission Files
+- URL: http://udacity-udagram-dev22.us-east-1.elasticbeanstalk.com
 
-### Link to endpoint URL
-- Base URL: Udagram-dev2222222.us-east-1.elasticbeanstalk.com
-For test: 
-- Original Image: https://miro.medium.com/fit/c/224/224/0*b939fNkgPLbcgPgA.jpg
-- Filtered Image: http://udagram-dev2222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://miro.medium.com/fit/c/224/224/0*b939fNkgPLbcgPgA.jpg
+#### Endpoints:
+http://udacity-udagram-dev22.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/Q/W/194215_1661878964.jpg
+
+
+### Elastic Beanstalk Console Screenshot
+
+![dashboard](https://github.com/sharonibejih/udacity-cloud-dev-projects/blob/main/udacity_cloud_dev_project2/udacity-udagram-env-deployment.png)
